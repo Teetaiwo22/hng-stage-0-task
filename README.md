@@ -32,4 +32,4 @@ Getting Started
 
 Clone the repository
 
-git clone https://github.com/Teetaiwo22/hng-stage-0-task
+git clone https://github.com/Teetaiwo22/hng-stage-0-task.git
